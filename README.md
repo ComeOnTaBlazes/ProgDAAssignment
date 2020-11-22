@@ -13,9 +13,9 @@ There were four distinct tasks to be carried out in the Jupyter notebook.
 4. Explain the use of seeds in generating pseudorandom numbers.
 
 ### How To Run the file
-Open the comand line  and clone the repositary to the current folder
-Change directory with the cd command into the newly cloned repositray
-Type "jupyter notebook" into the command line to open the folder on the Jupyter homepage
-Select the file "Numpy.Random.workbook.ipynb"
-Inside the noteboon, seelct "Kernel" from the options list, and "Restart & Run All"
+1. Open the comand line  and clone the repositary to the current folder
+2. Change directory with the cd command into the newly cloned repositray
+3. Type "jupyter notebook" into the command line to open the folder on the Jupyter homepage
+4. Select the file "Numpy.Random.workbook.ipynb"
+5 .Inside the noteboon, seelct "Kernel" from the options list, and "Restart & Run All"
 
